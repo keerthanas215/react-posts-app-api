@@ -1,0 +1,20 @@
+.post-form .form-input {
+  height: 50px;
+  width: 30%;
+  padding: 0 12px;
+  line-height: 50px;
+  border-radius: 8px;
+  vertical-align: middle;
+  border: 1px solid #aeaeae;
+}
+
+.post-form .form-textarea {
+  height: 50px;
+  width: 30%;
+  padding: 12px;
+  border-radius: 8px;
+  resize: vertical;
+  margin: 20px;
+  vertical-align: middle;
+  border: 1px solid #aeaeae;
+}

@@ -1,0 +1,28 @@
+.post-item {
+  border-bottom: 1px solid #e5e7eb;
+  padding: 18px 0;
+}
+
+.post-item:last-child {
+  border-bottom: none;
+}
+
+.post-link {
+  text-decoration: none;
+}
+
+.post-link h3 {
+  margin: 0 0 8px 0;
+  color: #1d4ed8;
+  transition: color 0.2s ease;
+}
+
+.post-link:hover h3 {
+  color: #1e40af;
+}
+
+.post-body {
+  margin: 0;
+  color: #4b5563;
+  line-height: 1.5;
+}
